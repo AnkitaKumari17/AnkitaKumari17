@@ -29,11 +29,14 @@ Here are some ideas to get you started:
       title="LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&label"/>
 </a>
-<a href="https://github.com/theparthmaru?tab=followers">
+<a href="https://github.com/AnkitaKumari17?tab=followers">
     <img
       alt="followers"
       title="Follow me on Github"
       src="https://custom-icon-badges.demolab.com/github/followers/AnkitaKumari17?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<a href="">
+   <img 
+      src="https://komarev.com/ghpvc/?username=AnkitaKumari17&label=Profile%20views&style=for-the-badge&color=0e75b6&logo=eye" alt="AnkitaKumari17" /> </a>
 <br/>
 
 # 🧰 Languages and Tools:
@@ -53,6 +56,9 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-<!--![](https://github-readme-stats.vercel.app/api?username=AnkitaKumari17&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>-->
+<!--![](https://github-readme-stats.vercel.app/api?username=AnkitaKumari17&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+-->
+![](https://github-readme-stats.vercel.app/api?username=AnkitaKumari17&theme=radical&hide_border=false&show_icons=true&locale=en&alt="AnkitaKumari17")<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnkitaKumari17&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitaKumari17&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
